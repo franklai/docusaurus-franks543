@@ -18,12 +18,10 @@ const config = {
       "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          // sidebarPath: require.resolve("./sidebars.js"),
-          // Please change this to your repo.
-          // routeBasePath: '/',
+        docs: false,
+        blog: {
+          postsPerPage: 3,
         },
-        blog: false,
       }),
     ],
   ],
@@ -31,6 +29,7 @@ const config = {
   themeConfig: {
     navbar: {
       title: "Frank 的五四三",
+      items: [{ to: "blog", label: "Blog", position: "left" }],
     },
   },
 };
