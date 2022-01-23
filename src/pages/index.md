@@ -9,7 +9,7 @@ import TabItem from '@theme/TabItem';
 <Tabs className="unique-tabs">
 <TabItem value="home" label="Home">
 
-#### Blog
+### Blog
 
 - [Frank 的五四三](https://franks543.blogspot.com/)
 - [Японская музыка](https://fujirou.blogspot.com/)
