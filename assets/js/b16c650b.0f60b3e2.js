@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_franks543=self.webpackChunkdocusaurus_franks543||[]).push([[833],{3365:function(s){s.exports=JSON.parse('{"permalink":"/docusaurus-franks543/blog","page":1,"postsPerPage":3,"totalPages":2,"totalCount":5,"previousPage":null,"nextPage":"/docusaurus-franks543/blog/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
