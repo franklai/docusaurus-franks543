@@ -22,6 +22,9 @@ const config = {
         blog: {
           postsPerPage: 3,
         },
+        theme: {
+          customCss: [require.resolve("./src/css/custom.css")],
+        },
       }),
     ],
   ],
